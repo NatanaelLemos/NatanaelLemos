@@ -1,4 +1,5 @@
-## Howdy, Nate here! 😎
+## Howdy, Nate here!
+### I'm a full-stack developer focused in C# (and apparently Javascript, according to my most used languages... 🤔)
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
